@@ -1,3 +1,9 @@
 body {
     background-color: #111;
+    display: flex;
+}
+
+p {
+    color: #eee;
+    justify-content: center;
 }
