@@ -1,5 +1,3 @@
-console.log('hello world ;)')
-
 const quote1 = 'Good'
 const quote2 = 'Discipline = Freedom'
 const quote3 = 'Get after it'
