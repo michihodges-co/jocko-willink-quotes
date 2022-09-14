@@ -6,4 +6,5 @@ body {
 p {
     color: #eee;
     justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
 }
