@@ -9,4 +9,14 @@ body {
 p {
     color: #eee;
     font-family: 'Courier New', Courier, monospace;
+    animation: fade 3s;
+}
+
+@keyframes fade {
+    0% {
+        color: rgba(238, 238, 238, 0);
+    }
+    100% {
+        color: rgba(238, 238, 238, 1);
+    }
 }
