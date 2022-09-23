@@ -1,8 +1,9 @@
 const quote1 = 'Good'
 const quote2 = 'Discipline = Freedom'
 const quote3 = 'Get after it'
+const quote4 = 'Believe'
 
-let myArray = [quote1, quote2, quote3]
+let myArray = [quote1, quote2, quote3, quote4]
 
 let randomItem = myArray[Math.floor(Math.random()*myArray.length)]
 
