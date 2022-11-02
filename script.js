@@ -3,6 +3,7 @@ const quote2 = 'Discipline = Freedom'
 const quote3 = 'Get after it'
 const quote4 = 'Believe'
 const quote5 = 'Cover and move'
+const quote6 = 'Simple'
 
 let myArray = [quote1, quote2, quote3, quote4, quote5]
 
