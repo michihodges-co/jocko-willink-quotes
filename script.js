@@ -1,5 +1,5 @@
 const quote1 = 'Good'
-const quote2 = 'Discipline = Freedom'
+const quote2 = 'Discipline equals freedom'
 const quote3 = 'Get after it'
 const quote4 = 'Believe'
 const quote5 = 'Cover and move'
