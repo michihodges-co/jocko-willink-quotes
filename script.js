@@ -6,7 +6,7 @@ const quote5 = 'Cover and move'
 const quote6 = 'Simple'
 const quote7 = 'Prioritize and execute'
 
-let myArray = [quote1, quote2, quote3, quote4, quote5, quote6, quote7, quote8]
+let myArray = [quote1, quote2, quote3, quote4, quote5, quote6, quote7]
 
 let randomItem = myArray[Math.floor(Math.random()*myArray.length)]
 
