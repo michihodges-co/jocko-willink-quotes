@@ -1,4 +1,4 @@
-const quote1 = 'believe'
+const quote1 = 'Believe'
 const quote2 = 'Good'
 const quote3 = 'Get after it'
 
