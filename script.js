@@ -1,6 +1,6 @@
-const quote1 = 'Good'
-const quote2 = 'Get after it'
-const quote3 = 'Believe'
+const quote1 = 'believe'
+const quote2 = 'Good'
+const quote3 = 'Get after it'
 
 let myArray = [quote1, quote2, quote3]
 
