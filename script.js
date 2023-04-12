@@ -1,7 +1,7 @@
 const quote1 = 'Believe'
 const quote2 = 'Good'
 const quote3 = 'Discipline equals freedom'
-const quote4 = 'You'
+const quote4 = 'Do'
 const quote5 = 'Get after it'
 
 let myArray = [quote1, quote2, quote3, quote4, quote5]
