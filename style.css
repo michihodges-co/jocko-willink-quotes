@@ -4,15 +4,29 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+}
+
+img {
+    animation: fade-img 5s;
 }
 
 p {
     color: #eee;
     font-family: 'Courier New', Courier, monospace;
-    animation: fade 3s;
+    animation: fade-p 3s;
 }
 
-@keyframes fade {
+@keyframes fade-img {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-p {
     0% {
         color: rgba(238, 238, 238, 0);
     }
